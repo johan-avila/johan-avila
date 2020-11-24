@@ -6,6 +6,6 @@ Hello people, my name is johan, i'm an eternal student and enthusiast tecnologic
 
 There are my skills:
 ![N|Solid](https://pbs.twimg.com/media/El4MPMOW0AAfGVu?format=jpg&name=4096x4096)
-[![N|Solid](https://static-exp1.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico)](https://www.linkedin.com/in/johan-avila-41098a129/)                                                                                                             [![N|Solid](https://abs.twimg.com/favicons/twitter.ico)](https://twitter.com/johan__ag)
+[![N|Solid](https://www.flaticon.es/svg/static/icons/svg/145/145807.svg)](https://www.linkedin.com/in/johan-avila-41098a129/)                                                                                                             [![N|Solid](https://www.flaticon.es/svg/static/icons/svg/145/145812.svg)](https://twitter.com/johan__ag)
 
 
